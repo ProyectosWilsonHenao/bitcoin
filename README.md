@@ -1,4 +1,4 @@
-Bitcoin ES MUY INTERESANTE
+Bitcoin ES MUY INTERESANTE E IMPORTANTE
 =====================================
 
 https://bitcoincore.org
