@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+Bitcoin modificado por Wilson
 =====================================
 
 https://bitcoincore.org
